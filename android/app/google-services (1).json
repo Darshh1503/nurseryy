@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "223295755552",
+    "project_id": "e-nursery-345c3",
+    "storage_bucket": "e-nursery-345c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223295755552:android:5ebd2fa0da9e40a8b3b345",
+        "android_client_info": {
+          "package_name": "com.example.nurseryy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223295755552-0kcpe1r7bd0feiismt4kk3bn4jibff05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMLct1N67r2ZwYLHhCdNfvOGu1F5gzwSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223295755552-0kcpe1r7bd0feiismt4kk3bn4jibff05.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
